@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tim
 - interested in a lot of Stuff
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me [E-Mail](mailto:info@timluginbuehl.net?subject=Hi, From GitHub)
+- 📫 How to reach me [E-Mail]
 
 <!---
 hellobubles1233/hellobubles1233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
