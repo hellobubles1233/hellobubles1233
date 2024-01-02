@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Tim
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- interested in a lot of Stuff
+- 🌱 I’m currently learning Laravel
+- 📫 How to reach me [E-Mail](mailto:info)
 
 <!---
 hellobubles1233/hellobubles1233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
